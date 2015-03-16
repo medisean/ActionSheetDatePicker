@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E8C1FB44-F6A7-489A-89E9-B0D439CAF5D7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ActionSheetDatePicker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>840E18A61CCBCCE9F588D915875CABDC867B68BB</key>
+		<string>https://github.com/medisean/ActionSheetDatePicker.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ActionSheetDatePicker/ActionSheetDatePicker.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>840E18A61CCBCCE9F588D915875CABDC867B68BB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/medisean/ActionSheetDatePicker.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>840E18A61CCBCCE9F588D915875CABDC867B68BB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>840E18A61CCBCCE9F588D915875CABDC867B68BB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ActionSheetDatePicker</string>
+		</dict>
+	</array>
+</dict>
+</plist>
